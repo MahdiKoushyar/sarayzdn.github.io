@@ -6,7 +6,7 @@ permalink: ':title/'
 
 markdown: kramdown
 # baseurl: "/karna"
-full-version: "http://webjeda.com/karna-full/"
+# full-version: "http://webjeda.com/karna-full/"
 
 sass:
     style: compressed
