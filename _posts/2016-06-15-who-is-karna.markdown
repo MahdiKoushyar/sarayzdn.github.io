@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Who is Karna?"
+title:  "What is Dual Active Bridge"
 description: Dual Active Bridge 
 date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
