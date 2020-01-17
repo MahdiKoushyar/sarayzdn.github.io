@@ -3,9 +3,9 @@ layout: post
 title:  "What is Dual Active Bridge"
 description: Dual Active Bridge 
 date:   2016-06-13 10:51:47 +0530
-categories: jekyll update
+categories: 
 img: karna.jpg
-categories: [one, two]
+categories:
 color: 1976D2
 author: webjeda
 ---
