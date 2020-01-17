@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  "What is Dual Active Bridge"
-description: Dual Active Bridge 
-date:   2016-06-13 10:51:47 +0530
-categories: jekyll update
-img: karna.jpg
-categories: [one, two]
-color: 1976D2
-author: webjeda
+//layout: post
+//title:  "What is Dual Active Bridge"
+//description: Dual Active Bridge 
+//date:   2016-06-13 10:51:47 +0530
+//categories: 
+//img: karna.jpg
+//categories:
+//color: 1976D2
+//author: webjeda
 ---
 Karna is one of the central characters in the Hindu epic Mahābhārata. Karna was one of the greatest warriors, whose martial exploits are recorded in the epic, and the only warrior believed to be able to defeat Arjuna in battle.
 
