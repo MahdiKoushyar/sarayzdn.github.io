@@ -4,7 +4,6 @@ title:  "About Me:"
 description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. 
 date:   March, 2021
 categories: jekyll update
-img: karna.jpg
 categories: [one, two]
 color: 1976D2
 <!-- author: webjeda -->
